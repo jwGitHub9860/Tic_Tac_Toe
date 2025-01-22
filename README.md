@@ -17,4 +17,4 @@ The tic-tac-toe project allows the user to play a game of tic-tac-toe.
 ###### References used while creating project
 Broder, Joe McCann and Martin. “Online Markdown Editor - Dillinger, the Last Markdown Editor Ever.” _Online Markdown Editor - Dillinger_, the Last Markdown Editor Ever., dillinger.io/. Accessed 21 Jan. 2025.
 
-“Udacity Git Commit Message Style Guide.” Udacity Nanodegree Style Guide, udacity.github.io/git-styleguide/. Accessed 21 Jan. 2025.
+“Udacity Git Commit Message Style Guide.” _Udacity Nanodegree Style Guide_, udacity.github.io/git-styleguide/. Accessed 21 Jan. 2025.
